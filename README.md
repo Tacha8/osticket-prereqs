@@ -59,7 +59,7 @@ The next step was enabling IIS with CGI by going into Windows Features and check
 
 
 <p>
-<img src="https://imgur.com/a/bDDkc8q" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A7UIdaj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
