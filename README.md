@@ -33,13 +33,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/SAPqiLy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SAPqiLy.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
 In this lab, I began by creating an Azure Windows 10 virtual machine named osticket-vm with 4 vCPUs, using the username labuser and the password osTicketPassword1!, then connected to it through Remote Desktop. 
 
 <p>
-<img src="https://i.imgur.com/f0dfIoA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f0dfIoA.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
   
